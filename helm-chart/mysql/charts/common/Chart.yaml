@@ -1,6 +1,6 @@
 apiVersion: v2
-name: zookeeper
-description: A Helm chart for Kubernetes to deploy zookeeper.
+name: mysql
+description: A Helm chart for Kubernetes to deploy mysql.
 maintainers:
   - name: Opstree Solutions
 type: application

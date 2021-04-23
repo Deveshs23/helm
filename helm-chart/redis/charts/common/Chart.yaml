@@ -1,6 +1,6 @@
 apiVersion: v2
-name: zookeeper
-description: A Helm chart for Kubernetes to deploy zookeeper.
+name: redis
+description: A Helm chart for Kubernetes to deploy redis.
 maintainers:
   - name: Opstree Solutions
 type: application
